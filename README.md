@@ -1,0 +1,2 @@
+# nooji
+my first repository
